@@ -6,8 +6,8 @@
   "mymongo": {
     "host": "localhost",
     "port": 27017,
-    "name": "mymongo",
     "database": "loopback1",
+    "name": "mymongo",
     "connector": "mongodb"
   }
 }
